@@ -19,7 +19,10 @@ namespace cGitTest
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //新增加
             MessageBox.Show("黑神话-悟空1");
+            // 2
+            MessageBox.Show("无敌！");
         }
     }
 }
